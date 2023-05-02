@@ -30,6 +30,8 @@ def dura():
     name.delete(0, END)
     name.insert(0, audi)
 
+print("calc")
+
 
 def pups(opp):
     value = name.get()
