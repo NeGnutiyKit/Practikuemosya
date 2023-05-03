@@ -8,6 +8,8 @@ def vvid(numb):
     name.insert(END, numb)
 
 print("PRRRRRRRRRRRRRRRRRRRRRRRRRR")
+print("rRRRRRRRRRRRRRRRRRRRRRRRRRR")
+
 def clear():
     a = name.get()
     d = len(a) - 1
