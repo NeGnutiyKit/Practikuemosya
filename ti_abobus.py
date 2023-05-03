@@ -7,6 +7,8 @@ def vvid(numb):
             name.delete(a[0])
     name.insert(END, numb)
 
+print("PRRRRRRRRRRRRRRRRRRRRRRRRRR")
+print("rRRRRRRRRRRRRRRRRRRRRRRRRR")
 
 def clear():
     a = name.get()
