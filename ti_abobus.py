@@ -7,7 +7,7 @@ def vvid(numb):
             name.delete(a[0])
     name.insert(END, numb)
 
-print('pislya')
+
 def clear():
     a = name.get()
     d = len(a) - 1
